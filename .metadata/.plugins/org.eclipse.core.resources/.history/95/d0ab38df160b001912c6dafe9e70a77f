@@ -1,0 +1,28 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import utils.Constants;
+
+public class DraftSystem {
+	static ArrayList<String> draft;
+	static Scanner drafter = new Scanner(System.in);
+	
+	public static void main(String args[]) {
+		// This will be the testing method
+		System.out.println("How many fantasy players are there?");
+		int num_f_players = drafter.nextInt();
+		
+		
+		initialize_Draft_Pro_Players();
+		for(String player : draft) {
+			System.out.println(player);
+		}
+	}
+	
+	private static void initialize_Draft_Pro_Players() {
+		draft = new ArrayList<String>();
+		for(String player: Constants.pro_players) {
+			draft.add(player);
+		}
+	}
+}

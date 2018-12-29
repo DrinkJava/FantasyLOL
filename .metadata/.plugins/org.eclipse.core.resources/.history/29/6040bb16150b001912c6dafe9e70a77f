@@ -1,0 +1,7 @@
+
+public class DraftSystem {
+	public static void main(String args[]) {
+		// This will be the testing method
+		System.out.println("How many players are there?");
+	}
+}

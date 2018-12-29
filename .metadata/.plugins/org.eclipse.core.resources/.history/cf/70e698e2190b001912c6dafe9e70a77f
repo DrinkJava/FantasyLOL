@@ -1,0 +1,12 @@
+package utils;
+
+import java.util.ArrayList;
+
+public class F_League_Players {
+	ArrayList<String> fantasy_team = new ArrayList<String>();
+	int Player_ID;
+	
+	public F_League_Players(int ID) {
+		Player_ID = ID;
+	}
+}
