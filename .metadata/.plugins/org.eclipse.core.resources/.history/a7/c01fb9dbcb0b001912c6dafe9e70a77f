@@ -27,7 +27,6 @@ public class DraftSystem {
         start_Draft();
         System.out.println("Draft Complete!");
         print_Fantasy_Teams();
-        System.out.println("Leftoever Pro-Players: ");
         print_Draftable_Players();
     }
 

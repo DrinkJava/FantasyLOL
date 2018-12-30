@@ -16,7 +16,7 @@ public class DraftSystem {
     
     // For input purposes
     static Scanner drafter = new Scanner(System.in);
-    //static F_League_Players temp;
+    static F_League_Players temp;
     static int num_f_players = 0;
 
     public static void main(String args[]) {
@@ -27,7 +27,6 @@ public class DraftSystem {
         start_Draft();
         System.out.println("Draft Complete!");
         print_Fantasy_Teams();
-        System.out.println("Leftoever Pro-Players: ");
         print_Draftable_Players();
     }
 

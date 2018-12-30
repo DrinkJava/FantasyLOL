@@ -5,18 +5,11 @@ import utils.Constants;
 import utils.F_League_Players;
 
 public class DraftSystem {
-    // This array list contains all of the pro-players available to draft from
     static ArrayList<String> draft;
-    
-    // This array list contains all of the fantasy players in this league
     static ArrayList<F_League_Players> fantasy_players;
-    
-    // This array list helps maintain how many pro-players are on each team.
     static ArrayList<Integer> team_counter;
-    
-    // For input purposes
     static Scanner drafter = new Scanner(System.in);
-    //static F_League_Players temp;
+    static F_League_Players temp;
     static int num_f_players = 0;
 
     public static void main(String args[]) {
@@ -27,7 +20,6 @@ public class DraftSystem {
         start_Draft();
         System.out.println("Draft Complete!");
         print_Fantasy_Teams();
-        System.out.println("Leftoever Pro-Players: ");
         print_Draftable_Players();
     }
 
@@ -68,9 +60,6 @@ public class DraftSystem {
         }
     }
 
-    /**
-     * Main drafting logic is here
-     */
     private static void start_Draft() {
         // Initializes the counter kept for each of the players
         team_counter = new ArrayList<Integer>();
@@ -143,20 +132,12 @@ public class DraftSystem {
 
     }
 
-    /**
-     * Helper function to print the available pro-players for remaining drafts
-     */
     private static void print_Draftable_Players() {
         for (String player : draft) {
             System.out.println(player);
         }
     }
 
-    /**
-     * This will take a pro-player from the draft and place it into a fantasy player's league
-     * @param desired_Player This is the name of the pro-player that a fantasy player wants to draft
-     * @param fantasy_player_ID This is the fantasy player ID so that the draft affects the correct team
-     */
     private static void draft_Player_To_Team(String desired_Player, int fantasy_player_ID) {
         // Desired player is available
         int temp_index = draft.indexOf(desired_Player);
