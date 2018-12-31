@@ -33,7 +33,7 @@ public class DraftSystem {
     /**
      * This method will print all the teams from each of the fantasy players
      */
-    public void print_Fantasy_Teams() {
+    private static void print_Fantasy_Teams() {
         for (F_League_Players current_player : fantasy_players) {
             System.out.println("Player: " + current_player.get_Player_ID());
             System.out.println("Player " + current_player.get_Player_ID() + "'s team is: ");

@@ -30,10 +30,22 @@ public class DraftSystem {
         print_Draftable_Players();
     }
     
+    public static void main(String args[]) {
+        // This will be the testing method
+        System.out.println("How many fantasy players are there?");
+        initialize_Number_Of_Fantasy_Players();
+        initialize_Draft_Pro_Players();
+        start_Draft();
+        System.out.println("Draft Complete!");
+        print_Fantasy_Teams();
+        System.out.println("Leftoever Pro-Players: ");
+        print_Draftable_Players();
+    }
+
     /**
      * This method will print all the teams from each of the fantasy players
      */
-    public void print_Fantasy_Teams() {
+    private static void print_Fantasy_Teams() {
         for (F_League_Players current_player : fantasy_players) {
             System.out.println("Player: " + current_player.get_Player_ID());
             System.out.println("Player " + current_player.get_Player_ID() + "'s team is: ");

@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class EndlessGame {
+    static Scanner moderator = new Scanner(System.in);
+    static DraftSystem drafting = new DraftSystem();
+    
+    public static void main(String[] args) {
+        System.out.println("Welcome to Fantasy League of Legends!");
+        while (true) {
+            System.out.println("Pick one of the options below: ");
+            System.out.println("(1) Initial Draft");
+            System.out.println("(2) Trade Players");
+            System.out.println("(3) Trade from Pool");
+            System.out.println("(4) Exit");
+            int choice = moderator.nextInt();
+            switch(choice) {
+                case 1:
+                    System.out.println("This will start the initial draft");
+                    drafting.run_draft();
+                case 2:
+                    System.out.println("This will allow two players to trade");
+                case 3:
+                    System.out.println("This will allow a player to trade from the pool");
+                case 4: 
+                    System.out.println("Goodbye");
+                    return;
+            }
+                    
+        }
+    }
+}

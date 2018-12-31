@@ -1,0 +1,7 @@
+
+public class EndlessGame {
+    public static void main (String [] args) {
+        System.out.println("Welcome to Fantasy League of Legends: ");
+        System.out.println("Pick one of the options below");
+    }
+}
