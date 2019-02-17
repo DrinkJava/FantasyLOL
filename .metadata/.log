@@ -185,3 +185,147 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
 	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
 	at java.lang.Thread.run(Thread.java:748)
+!SESSION 2019-01-13 11:03:10.320 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/abhishekjohri/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/abhishekjohri/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-01-13 11:03:59.687
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2019-01-13 11:04:01.110
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2019-01-13 11:04:03.283
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-01-13 11:04:03.283
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6b9f5dcf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ab7e997,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 4 0 2019-01-13 11:04:14.987
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-01-13 11:04:15.006
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.GXT' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-01-13 11:04:15.007
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.SmartGWT' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-01-13 11:04:15.007
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.UiBinder' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-01-13 11:37:51.095
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-01-13 11:37:51.096
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2019-02-06 18:49:45.587 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/abhishekjohri/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/abhishekjohri/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2019-02-07 19:35:50.173
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-02-07 19:35:50.173
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f254d79,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@589cc8eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 4 0 2019-02-07 19:35:56.951
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-02-07 19:35:56.969
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.GXT' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-02-07 19:35:56.969
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.SmartGWT' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-02-07 19:35:56.969
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.UiBinder' does not provide a valid 'startup' element.
+!SESSION 2019-02-08 14:12:26.684 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/abhishekjohri/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/abhishekjohri/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2019-02-16 18:17:32.050
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-02-16 18:17:32.050
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@664c0466,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2edc6690,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 4 0 2019-02-16 18:17:39.465
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-02-16 18:17:39.482
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.GXT' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-02-16 18:17:39.483
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.SmartGWT' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.ui 4 0 2019-02-16 18:17:39.483
+!MESSAGE The org.eclipse.ui.IStartup extension from 'com.google.gdt.eclipse.designer.UiBinder' does not provide a valid 'startup' element.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-02-17 00:14:59.822
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-02-17 00:14:59.824
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-02-17 00:15:00.896
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-02-17 00:15:00.898
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
