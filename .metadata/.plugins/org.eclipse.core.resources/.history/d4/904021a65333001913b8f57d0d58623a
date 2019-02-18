@@ -57,10 +57,9 @@ public class DraftSystem {
             raw_team_league.put(stored_league);
             
         }
-        entire_league.put("Data", raw_team_league);
         file = new FileWriter("/Users/abhishekjohri/FantasyLOl/test.txt");
-        file.write(entire_league.toString());
-        System.out.println("JSON Object: " + entire_league);
+        file.write(raw_team_league.toString());
+        System.out.println("JSON Object: " + raw_team_league);
         file.close();
     }
 

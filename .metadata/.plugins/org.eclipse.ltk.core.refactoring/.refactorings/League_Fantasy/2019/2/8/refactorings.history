@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;total_league&apos; in &apos;DraftSystem.print_Fantasy_Teams()&apos; to &apos;raw_team_league&apos;&#x0A;- Original project: &apos;League_Fantasy&apos;&#x0A;- Original element: &apos;DraftSystem.print_Fantasy_Teams().total_league&apos;&#x0A;- Renamed element: &apos;total_league&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;total_league&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{DraftSystem.java[DraftSystem~print_Fantasy_Teams@total_league!1354!1394!1364!1375!QJSONArray;!0!false" name="raw_team_league" references="true" stamp="1550476922141" version="1.0"/>
+</session>

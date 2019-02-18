@@ -40,8 +40,6 @@ public class DraftSystem {
      */
     public void print_Fantasy_Teams() throws IOException {
         FileWriter file = null;
-        JSONObject entire_league = new JSONObject();
-        entire_league.put("Title", "Test_League");
         JSONArray raw_team_league = new JSONArray();
         for (F_League_Players current_player : fantasy_players) {
             JSONObject stored_league = new JSONObject();
@@ -53,14 +51,13 @@ public class DraftSystem {
                 drafted_team.put(player);
                 System.out.println(player);
             }
-            stored_league.put("Team", drafted_team);
+            stored_league.put("Team: ", drafted_team);
             raw_team_league.put(stored_league);
             
         }
-        entire_league.put("Data", raw_team_league);
         file = new FileWriter("/Users/abhishekjohri/FantasyLOl/test.txt");
-        file.write(entire_league.toString());
-        System.out.println("JSON Object: " + entire_league);
+        file.write(raw_team_league.toString());
+        System.out.println("JSON Object: " + raw_team_league);
         file.close();
     }
 

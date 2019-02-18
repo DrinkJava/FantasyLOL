@@ -1,1 +1,1 @@
-[{"Player":"Player 1","Team: ":["Big","Dardoch","Meteos","Matt","Deftly"]},{"Player":"Player 2","Team: ":["Arrow","Crown","Dhokla","Olleh","Froggen"]}]
+{"Title":"Test_League","Data":[{"Player":"Player 1","Team":["Bjergsen","Bang","Jensen","Impact","JayJ"]},{"Player":"Player 2","Team":["Ssumday","Wiggly","CoreJJ","Xmithe","Solo"]},{"Player":"Player 3","Team":["Zven","Biofrost","Hauntzer","Doublelift","Rush"]},{"Player":"Player 4","Team":["Aphromoo","Apollo","Vulcan","Arrow","Huni"]},{"Player":"Player 5","Team":["Damonte","Lost","Lourlo","Big","Nisqy"]}]}
