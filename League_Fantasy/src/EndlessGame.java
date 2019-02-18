@@ -1,12 +1,15 @@
+import java.io.IOException;
 import java.util.Scanner;
 
+import org.json.JSONObject;
+import org.json.JSONArray;
 
 public class EndlessGame {
     static Scanner moderator = new Scanner(System.in);
     static DraftSystem drafting = new DraftSystem();
     static JSONObject stored_data = new JSONObject();
     
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         System.out.println("Welcome to Fantasy League of Legends!");
         while (true) {
             System.out.println("Pick one of the options below: ");

@@ -17,4 +17,22 @@
       </plugin>
     </plugins>
   </build>
+  
+<dependencies>
+  <dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20180813</version>
+  </dependency>
+</dependencies>
+  
+  
+  <distributionManagement>
+  	<repository>
+  		<id>internal.repo</id>
+  		<name>Internal Repository</name>
+  		<url>file:///Users/abhishekjohri/FantasyLOl</url>
+  	</repository>
+  </distributionManagement>
+  
 </project>

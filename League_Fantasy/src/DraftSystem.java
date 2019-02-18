@@ -1,25 +1,29 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 import utils.Constants;
 import utils.F_League_Players;
+import java.io.*;
 
 public class DraftSystem {
     // This array list contains all of the pro-players available to draft from
     static ArrayList<String> draft;
-    
+
     // This array list contains all of the fantasy players in this league
     static ArrayList<F_League_Players> fantasy_players;
-    
+
     // This array list helps maintain how many pro-players are on each team.
     static ArrayList<Integer> team_counter;
-    
+
     // For input purposes
     static Scanner drafter = new Scanner(System.in);
-    //static F_League_Players temp;
+    // static F_League_Players temp;
     static int num_f_players = 0;
 
-    public void run_draft() {
+    public void run_draft() throws IOException {
         System.out.println("How many fantasy players are there?");
         initialize_Number_Of_Fantasy_Players();
         initialize_Draft_Pro_Players();
@@ -29,18 +33,32 @@ public class DraftSystem {
         System.out.println("Leftoever Pro-Players: ");
         print_Draftable_Players();
     }
-    
+
     /**
      * This method will print all the teams from each of the fantasy players
+     * @throws IOException 
      */
-    public void print_Fantasy_Teams() {
+    public void print_Fantasy_Teams() throws IOException {
+        FileWriter file = null;
+        JSONArray total_league = new JSONArray();
         for (F_League_Players current_player : fantasy_players) {
+            JSONObject stored_league = new JSONObject();
+            JSONArray drafted_team = new JSONArray();
             System.out.println("Player: " + current_player.get_Player_ID());
+            stored_league.put("Player", "Player " + current_player.get_Player_ID());
             System.out.println("Player " + current_player.get_Player_ID() + "'s team is: ");
             for (String player : current_player.fantasy_team) {
+                drafted_team.put(player);
                 System.out.println(player);
             }
+            stored_league.put("Team: ", drafted_team);
+            total_league.put(stored_league);
+            
         }
+        file = new FileWriter("/Users/abhishekjohri/FantasyLOl/test.txt");
+        file.write(total_league.toString());
+        System.out.println("JSON Object: " + total_league);
+        file.close();
     }
 
     /**
@@ -58,7 +76,8 @@ public class DraftSystem {
     }
 
     /**
-     * This converts the constant string of pro players into an array list for the draft system
+     * This converts the constant string of pro players into an array list for the
+     * draft system
      */
     private static void initialize_Draft_Pro_Players() {
         draft = new ArrayList<String>();
@@ -152,9 +171,15 @@ public class DraftSystem {
     }
 
     /**
-     * This will take a pro-player from the draft and place it into a fantasy player's league
-     * @param desired_Player This is the name of the pro-player that a fantasy player wants to draft
-     * @param fantasy_player_ID This is the fantasy player ID so that the draft affects the correct team
+     * This will take a pro-player from the draft and place it into a fantasy
+     * player's league
+     * 
+     * @param desired_Player
+     *            This is the name of the pro-player that a fantasy player wants to
+     *            draft
+     * @param fantasy_player_ID
+     *            This is the fantasy player ID so that the draft affects the
+     *            correct team
      */
     private static void draft_Player_To_Team(String desired_Player, int fantasy_player_ID) {
         // Desired player is available

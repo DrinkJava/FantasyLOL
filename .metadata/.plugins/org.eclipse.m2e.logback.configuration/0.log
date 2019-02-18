@@ -478,3 +478,170 @@
 2019-02-17 00:15:00,896 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
 2019-02-17 00:15:00,898 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-02-17 00:15:00,899 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:21:10,288 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:21:10,288 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:21:10,289 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:21:10,290 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:21:18,728 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-02-17 10:21:25,857 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/abhishekjohri/FantasyLOl/League_Fantasy
+2019-02-17 10:21:25,857 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2019-02-17 10:28:10,319 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: League_Fantasy:League_Fantasy:0.0.1-SNAPSHOT @ /Users/abhishekjohri/FantasyLOl/League_Fantasy/pom.xml.
+2019-02-17 10:28:10,469 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:28:10,470 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:28:10,471 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:28:10,472 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:28:13,833 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-02-17 10:28:16,872 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/abhishekjohri/FantasyLOl/League_Fantasy
+2019-02-17 10:28:16,872 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2019-02-17 10:28:54,242 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: League_Fantasy:League_Fantasy:0.0.1-SNAPSHOT @ /Users/abhishekjohri/FantasyLOl/League_Fantasy/pom.xml.
+2019-02-17 10:28:54,347 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:28:54,348 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:28:54,349 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:28:54,350 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:29:00,393 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-02-17 10:29:03,662 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/abhishekjohri/FantasyLOl/League_Fantasy
+2019-02-17 10:29:03,662 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2019-02-17 10:30:09,542 [Worker-89] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: League_Fantasy:League_Fantasy:0.0.1-SNAPSHOT @ /Users/abhishekjohri/FantasyLOl/League_Fantasy/pom.xml.
+2019-02-17 10:30:09,662 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:30:09,663 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:30:09,664 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:30:09,665 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:30:21,665 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20180813/json-20180813.pom
+2019-02-17 10:30:21,686 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20180813/json-20180813.pom
+2019-02-17 10:30:21,716 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20180813/json-20180813.jar
+2019-02-17 10:30:21,758 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20180813/json-20180813.jar
+2019-02-17 10:30:21,799 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: League_Fantasy:League_Fantasy:0.0.1-SNAPSHOT @ /Users/abhishekjohri/FantasyLOl/League_Fantasy/pom.xml.
+2019-02-17 10:30:21,894 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:30:21,895 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:30:21,896 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:30:21,897 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:30:23,151 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:30:23,151 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:30:23,153 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:30:23,153 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:30:33,000 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-02-17 10:30:36,151 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/abhishekjohri/FantasyLOl/League_Fantasy
+2019-02-17 10:30:36,151 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2019-02-17 10:33:01,103 [Worker-89] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: League_Fantasy:League_Fantasy:0.0.1-SNAPSHOT @ /Users/abhishekjohri/FantasyLOl/League_Fantasy/pom.xml.
+2019-02-17 10:33:01,190 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:33:01,191 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:33:01,192 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:33:01,193 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:33:05,701 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: League_Fantasy:League_Fantasy:0.0.1-SNAPSHOT @ /Users/abhishekjohri/FantasyLOl/League_Fantasy/pom.xml.
+2019-02-17 10:33:05,788 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:33:05,789 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:33:05,790 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:33:05,790 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:33:11,922 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-02-17 10:33:15,239 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/abhishekjohri/FantasyLOl/League_Fantasy
+2019-02-17 10:33:15,239 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2019-02-17 10:33:29,804 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:33:29,805 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:33:29,808 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:33:29,809 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 10:36:50,337 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:36:50,338 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 10:36:50,339 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 10:36:50,339 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 12:40:42,849 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: League_Fantasy:League_Fantasy:0.0.1-SNAPSHOT @ /Users/abhishekjohri/FantasyLOl/League_Fantasy/pom.xml.
+2019-02-17 12:40:43,315 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2019-02-17 12:40:43,333 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2019-02-17 12:40:43,357 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2019-02-17 12:40:43,385 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2019-02-17 12:40:43,412 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2019-02-17 12:40:43,431 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2019-02-17 12:40:43,451 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2019-02-17 12:40:43,478 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2019-02-17 12:40:43,504 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2019-02-17 12:40:43,555 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2019-02-17 12:40:43,578 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2019-02-17 12:40:43,679 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2019-02-17 12:40:43,703 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2019-02-17 12:40:43,731 [Worker-101] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2019-02-17 12:40:43,911 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:40:43,912 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 12:40:43,913 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:40:43,913 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 12:40:45,092 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:40:45,092 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 12:40:45,093 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:40:45,094 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 12:40:47,381 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-02-17 12:40:50,595 [Worker-98] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/abhishekjohri/FantasyLOl/League_Fantasy
+2019-02-17 12:40:50,595 [Worker-98] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2019-02-17 12:48:03,491 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: League_Fantasy:League_Fantasy:0.0.1-SNAPSHOT @ /Users/abhishekjohri/FantasyLOl/League_Fantasy/pom.xml.
+2019-02-17 12:48:03,704 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:48:03,705 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 12:48:03,706 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:48:03,707 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 12:48:04,976 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:48:04,977 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 12:48:04,979 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:48:04,980 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 12:48:12,028 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-02-17 12:48:15,912 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/abhishekjohri/FantasyLOl/League_Fantasy
+2019-02-17 12:48:15,913 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2019-02-17 12:49:02,381 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:49:02,382 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 12:49:02,384 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 12:49:02,384 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 19:57:55,099 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 19:57:55,101 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 19:57:55,102 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 19:57:55,103 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 19:58:21,514 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 19:58:21,515 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 19:58:21,516 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 19:58:21,516 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 19:58:27,734 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 19:58:27,734 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 19:58:27,735 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 19:58:27,735 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 21:39:49,432 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:39:49,434 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 21:39:49,436 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:39:49,437 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 21:40:46,351 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:40:46,352 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 21:40:46,352 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:40:46,353 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 21:43:32,533 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:43:32,536 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 21:43:32,538 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:43:32,538 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 21:43:49,698 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:43:49,698 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 21:43:49,700 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:43:49,700 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 21:43:57,056 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:43:57,057 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 21:43:57,058 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:43:57,059 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 21:45:57,357 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:45:57,358 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 21:45:57,359 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:45:57,360 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 21:46:19,922 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:46:19,923 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 21:46:19,924 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:46:19,924 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 21:46:27,578 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:46:27,579 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 21:46:27,579 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 21:46:27,580 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 23:13:02,252 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 23:13:02,253 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 23:13:02,254 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 23:13:02,254 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 23:13:27,746 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 23:13:27,747 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 23:13:27,748 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 23:13:27,750 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 23:19:03,110 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 23:19:03,110 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 23:19:03,111 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 23:19:03,111 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
+2019-02-17 23:44:06,668 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 23:44:06,669 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/main/resources
+2019-02-17 23:44:06,670 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-17 23:44:06,670 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/abhishekjohri/FantasyLOl/League_Fantasy/src/test/resources
